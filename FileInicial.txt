@@ -1,0 +1,20 @@
+Pessoa,Licenciado,João,joao@hotmail.com,12/11/2019,12/12/2019
+Pessoa,Mestrado,Filipa,fii@hotmail.com,12/11/2019,12/12/2019
+Pessoa,Douturado,Manel,fii@hotmail.com,12/11/2019,12/12/2019
+Pessoa,Licenciado,Ze,fii@hotmail.com,12/11/2019,12/12/2019
+Pessoa,Mestrado,Maria,fii@hotmail.com,12/11/2019,12/12/2019
+Pessoa,Douturado,Rui,fii@hotmail.com,12/11/2019,12/12/2019
+Pessoa,Licenciado,Miguel,fii@hotmail.com,12/11/2019,12/12/2019
+Pessoa,Docente,Ramiro,fii@hotmail.com,2222,INFORMATICA
+Pessoa,Douturado,Margarida,fii@hotmail.com,12/11/2019,12/12/2019
+Pessoa,Licenciado,Clara,fii@hotmail.com,12/11/2019,12/12/2019
+Projeto,Website,CPAOA,12/11/2019,12/12/2019,1,Ramiro
+Projeto,SO Aeroporto,SOA,12/11/2019,12/12/2019,1,Ramiro
+Projeto,Futebol,FPF,12/11/2019,12/12/2019,1,Ramiro
+Projeto,Base de Dados,BD,12/11/2019,12/12/2019,1,Ramiro
+Projeto,UCBusca,UCB,12/11/2019,12/12/2019,1,Ramiro
+Projeto,MatchIT,MIT,12/11/2019,12/12/2019,1,Ramiro
+Projeto,Musica,ACD,12/11/2019,12/12/2019,1,Ramiro
+Projeto,Rede Social,RDA,12/11/2019,12/12/2019,1,Ramiro
+Projeto,RTP1,RTPTV,12/11/2019,12/12/2019,1,Ramiro
+Projeto,Radio,RFM,12/11/2019,12/12/2019,1,Ramiro
